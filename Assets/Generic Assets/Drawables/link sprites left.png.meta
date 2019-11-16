@@ -1,0 +1,1673 @@
+fileFormatVersion: 2
+guid: 32c550033c143564e88afb3c41672e64
+timeCreated: 1464048138
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: link sprites left_0
+    21300002: link sprites left_1
+    21300004: link sprites left_2
+    21300006: link sprites left_3
+    21300008: link sprites left_4
+    21300010: link sprites left_5
+    21300012: link sprites left_6
+    21300014: link sprites left_7
+    21300016: link sprites left_8
+    21300018: link sprites left_9
+    21300020: link sprites left_10
+    21300022: link sprites left_11
+    21300024: link sprites left_12
+    21300026: link sprites left_13
+    21300028: link sprites left_14
+    21300030: link sprites left_15
+    21300032: link sprites left_16
+    21300034: link sprites left_17
+    21300036: link sprites left_18
+    21300038: link sprites left_19
+    21300040: link sprites left_20
+    21300042: link sprites left_21
+    21300044: link sprites left_22
+    21300046: link sprites left_23
+    21300048: link sprites left_24
+    21300050: link sprites left_25
+    21300052: link sprites left_26
+    21300054: link sprites left_27
+    21300056: link sprites left_28
+    21300058: link sprites left_29
+    21300060: link sprites left_30
+    21300062: link sprites left_31
+    21300064: link sprites left_32
+    21300066: link sprites left_33
+    21300068: link sprites left_34
+    21300070: link sprites left_35
+    21300072: link sprites left_36
+    21300074: link sprites left_37
+    21300076: link sprites left_38
+    21300078: link sprites left_39
+    21300080: link sprites left_40
+    21300082: link sprites left_41
+    21300084: link sprites left_42
+    21300086: link sprites left_43
+    21300088: link sprites left_44
+    21300090: link sprites left_45
+    21300092: link sprites left_46
+    21300094: link sprites left_47
+    21300096: link sprites left_48
+    21300098: link sprites left_49
+    21300100: link sprites left_50
+    21300102: link sprites left_51
+    21300104: link sprites left_52
+    21300106: link sprites left_53
+    21300108: link sprites left_54
+    21300110: link sprites left_55
+    21300112: link sprites left_56
+    21300114: link sprites left_57
+    21300116: link sprites left_58
+    21300118: link sprites left_59
+    21300120: link sprites left_60
+    21300122: link sprites left_61
+    21300124: link sprites left_62
+    21300126: link sprites left_63
+    21300128: link sprites left_64
+    21300130: link sprites left_65
+    21300132: link sprites left_66
+    21300134: link sprites left_67
+    21300136: link sprites left_68
+    21300138: link sprites left_69
+    21300140: link sprites left_70
+    21300142: link sprites left_71
+    21300144: link sprites left_72
+    21300146: link sprites left_73
+    21300148: link sprites left_74
+    21300150: link sprites left_75
+    21300152: link sprites left_76
+    21300154: link sprites left_77
+    21300156: link sprites left_78
+    21300158: link sprites left_79
+    21300160: link sprites left_80
+    21300162: link sprites left_81
+    21300164: link sprites left_82
+    21300166: link sprites left_83
+    21300168: link sprites left_84
+    21300170: link sprites left_85
+    21300172: link sprites left_86
+    21300174: link sprites left_87
+    21300176: link sprites left_88
+    21300178: link sprites left_89
+    21300180: link sprites left_90
+    21300182: link sprites left_91
+    21300184: link sprites left_92
+    21300186: link sprites left_93
+    21300188: link sprites left_94
+    21300190: link sprites left_95
+    21300192: link sprites left_96
+    21300194: link sprites left_97
+    21300196: link sprites left_98
+    21300198: link sprites left_99
+    21300200: link sprites left_100
+    21300202: link sprites left_101
+    21300204: link sprites left_102
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 18
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: link sprites left_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 509
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: link sprites left_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 509
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: -1}
+        - {x: 14.5, y: 0}
+        - {x: 18.5, y: 4}
+        - {x: 18.5, y: 22}
+        - {x: -18.5, y: 22}
+        - {x: -18.5, y: -22}
+        - {x: 1.5, y: -22}
+        - {x: 17.5, y: -17}
+        - {x: 18.5, y: -15}
+        - {x: 18.5, y: -4}
+        - {x: 13.5, y: -1}
+    - name: link sprites left_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 511
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 20.5}
+        - {x: -16.5, y: 19.5}
+        - {x: -16.5, y: -20.5}
+        - {x: 16.5, y: -20.5}
+        - {x: 16.5, y: 20.5}
+    - name: link sprites left_3
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 509
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: link sprites left_4
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 509
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: link sprites left_5
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 509
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: link sprites left_6
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 509
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: -1}
+        - {x: 12, y: -1}
+        - {x: 16, y: 3}
+        - {x: 19, y: 7}
+        - {x: 19, y: 22}
+        - {x: -19, y: 22}
+        - {x: -19, y: -22}
+        - {x: -5, y: -22}
+        - {x: 4, y: -20}
+        - {x: 19, y: -15}
+        - {x: 19, y: -6}
+    - name: link sprites left_7
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 512
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 20.5}
+        - {x: -18, y: 12.5}
+        - {x: -18, y: 3.5}
+        - {x: -13, y: -2.5}
+        - {x: -18, y: -5.5}
+        - {x: -18, y: -18.5}
+        - {x: -9, y: -20.5}
+        - {x: 18, y: -20.5}
+        - {x: 18, y: 20.5}
+    - name: link sprites left_8
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 509
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: link sprites left_9
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 509
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: link sprites left_10
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 452
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -3}
+        - {x: -17, y: -5}
+        - {x: -17, y: -15}
+        - {x: -16, y: -17}
+        - {x: 2, y: -17}
+        - {x: 2, y: -10}
+        - {x: 0, y: -3}
+      - - {x: -8, y: 17}
+        - {x: -17, y: 17}
+        - {x: -17, y: 10}
+        - {x: 2, y: -16}
+        - {x: 6, y: -17}
+        - {x: 17, y: -17}
+        - {x: 17, y: 3}
+        - {x: 14, y: 8}
+      - - {x: 12, y: 17}
+        - {x: 14, y: 11}
+        - {x: 16, y: 9}
+        - {x: 17, y: 9}
+        - {x: 17, y: 17}
+    - name: link sprites left_11
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 452
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: link sprites left_12
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 452
+        width: 14
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: link sprites left_13
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 476
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: link sprites left_14
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 449
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 24}
+        - {x: -5, y: 24}
+        - {x: -23, y: -7}
+        - {x: -23, y: -24}
+        - {x: 21, y: -24}
+        - {x: 23, y: -16}
+        - {x: 23, y: 8}
+        - {x: 21, y: 23}
+    - name: link sprites left_15
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 449
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 24}
+        - {x: -1, y: 24}
+        - {x: -6, y: 23}
+        - {x: -23, y: -11}
+        - {x: -23, y: -24}
+        - {x: 23, y: -24}
+        - {x: 23, y: 9}
+    - name: link sprites left_16
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 449
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 24}
+        - {x: -23, y: -7}
+        - {x: -23, y: -24}
+        - {x: 21, y: -24}
+        - {x: 23, y: -17}
+        - {x: 23, y: 12}
+        - {x: 14, y: 24}
+    - name: link sprites left_17
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 449
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: link sprites left_18
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 449
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: link sprites left_19
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 449
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: link sprites left_20
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 449
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: link sprites left_21
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 448
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: link sprites left_22
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 449
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: link sprites left_23
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 449
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: link sprites left_24
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 446
+        width: 47
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: link sprites left_25
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 451
+        width: 46
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: link sprites left_26
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 454
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: link sprites left_27
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 398
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: link sprites left_28
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 397
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: link sprites left_29
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 396
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: link sprites left_30
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 426
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: link sprites left_31
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 382
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: link sprites left_32
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 399
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: link sprites left_33
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 399
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 21.5}
+        - {x: -22.5, y: -2.5}
+        - {x: -17.5, y: -21.5}
+        - {x: 22.5, y: -21.5}
+        - {x: 22.5, y: 6.5}
+        - {x: 15.5, y: 21.5}
+    - name: link sprites left_34
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 398
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 21.5}
+        - {x: -16, y: 18.5}
+        - {x: -16, y: -21.5}
+        - {x: 16, y: -21.5}
+        - {x: 16, y: 11.5}
+        - {x: 11, y: 21.5}
+    - name: link sprites left_35
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 398
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 21.5}
+        - {x: -22.5, y: 1.5}
+        - {x: -17.5, y: -21.5}
+        - {x: 22.5, y: -21.5}
+        - {x: 22.5, y: 6.5}
+        - {x: 15.5, y: 21.5}
+    - name: link sprites left_36
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 398
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 21.5}
+        - {x: -18.5, y: 14.5}
+        - {x: -18.5, y: -21.5}
+        - {x: 18.5, y: -21.5}
+        - {x: 18.5, y: 10.5}
+        - {x: 12.5, y: 21.5}
+    - name: link sprites left_37
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 392
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: link sprites left_38
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 385
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: link sprites left_39
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 400
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: link sprites left_40
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 381
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: link sprites left_41
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 351
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 12.5}
+        - {x: -22, y: -2.5}
+        - {x: -22, y: -22.5}
+        - {x: -19, y: -24.5}
+        - {x: -15, y: -24.5}
+        - {x: -12, y: -31.5}
+        - {x: 11, y: -31.5}
+        - {x: 22, y: -14.5}
+        - {x: 22, y: 10.5}
+        - {x: 18, y: 12.5}
+      - - {x: 19, y: 31.5}
+        - {x: 19, y: 26.5}
+        - {x: 21, y: 24.5}
+        - {x: 22, y: 24.5}
+        - {x: 22, y: 31.5}
+      - - {x: -16, y: 31.5}
+        - {x: -16, y: 28.5}
+        - {x: -14, y: 26.5}
+        - {x: -11, y: 26.5}
+        - {x: -9, y: 28.5}
+        - {x: -9, y: 31.5}
+    - name: link sprites left_42
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 366
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: link sprites left_43
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 377
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: link sprites left_44
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 346
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: link sprites left_45
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 368
+        width: 43
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: link sprites left_46
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 350
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 20.5}
+        - {x: -18, y: 12.5}
+        - {x: -18, y: 3.5}
+        - {x: -13, y: -2.5}
+        - {x: -18, y: -5.5}
+        - {x: -18, y: -18.5}
+        - {x: -9, y: -20.5}
+        - {x: 18, y: -20.5}
+        - {x: 18, y: 20.5}
+    - name: link sprites left_47
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 365
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: link sprites left_48
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 365
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: link sprites left_49
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 357
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: link sprites left_50
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 365
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: link sprites left_51
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 357
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: link sprites left_52
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 290
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.5, y: -33}
+        - {x: 30.5, y: 35}
+        - {x: -17.5, y: 35}
+        - {x: -30.5, y: 26}
+        - {x: -30.5, y: -25}
+        - {x: -24.5, y: -30}
+        - {x: -15.5, y: -34}
+        - {x: -12.5, y: -35}
+        - {x: 14.5, y: -35}
+        - {x: 12.5, y: -25}
+        - {x: 16.5, y: -35}
+        - {x: 23.5, y: -35}
+    - name: link sprites left_53
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 342
+        width: 36
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: link sprites left_54
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 292
+        width: 59
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.5, y: 35}
+        - {x: -28.5, y: 5}
+        - {x: -29.5, y: 1}
+        - {x: -29.5, y: -23}
+        - {x: -22.5, y: -35}
+        - {x: 8.5, y: -35}
+        - {x: 29.5, y: 24}
+        - {x: 29.5, y: 35}
+      - - {x: -29.5, y: 35}
+        - {x: -29.5, y: 18}
+        - {x: -27.5, y: 17}
+        - {x: -10.5, y: 17}
+        - {x: -8.5, y: 18}
+        - {x: -5.5, y: 31}
+        - {x: -5.5, y: 35}
+    - name: link sprites left_55
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 292
+        width: 53
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.5, y: 23.5}
+        - {x: 26.5, y: 36.5}
+        - {x: 18.5, y: 36.5}
+        - {x: -26.5, y: 5.5}
+        - {x: -26.5, y: -36.5}
+        - {x: 11.5, y: -36.5}
+        - {x: 8.5, y: -26.5}
+        - {x: 19.5, y: -0.5}
+    - name: link sprites left_56
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 292
+        width: 50
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 36.5}
+        - {x: 18, y: 33.5}
+        - {x: 16, y: 29.5}
+        - {x: -10, y: 8.5}
+        - {x: -24, y: -4.5}
+        - {x: -25, y: -7.5}
+        - {x: -25, y: -19.5}
+        - {x: -23, y: -19.5}
+        - {x: -21, y: -36.5}
+        - {x: 15, y: -36.5}
+        - {x: 23, y: -1.5}
+        - {x: 25, y: 17.5}
+        - {x: 25, y: 36.5}
+      - - {x: -25, y: 36.5}
+        - {x: -25, y: 24.5}
+        - {x: -5, y: 19.5}
+        - {x: 4, y: 19.5}
+        - {x: 6, y: 23.5}
+        - {x: 6, y: 32.5}
+        - {x: 0, y: 36.5}
+    - name: link sprites left_57
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 349
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: link sprites left_58
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 349
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: link sprites left_59
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 349
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: link sprites left_60
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 349
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: link sprites left_61
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 349
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: link sprites left_62
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 349
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: link sprites left_63
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 349
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: link sprites left_64
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 349
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: link sprites left_65
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 291
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 7}
+        - {x: -31.5, y: -26}
+        - {x: -30.5, y: -32}
+        - {x: 8.5, y: -32}
+        - {x: 31.5, y: 25}
+        - {x: 31.5, y: 32}
+        - {x: 22.5, y: 32}
+        - {x: -20.5, y: 16}
+      - - {x: -16.5, y: 32}
+        - {x: -16.5, y: 28}
+        - {x: -15.5, y: 26}
+        - {x: -4.5, y: 26}
+        - {x: -2.5, y: 30}
+        - {x: -2.5, y: 32}
+    - name: link sprites left_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 308
+        width: 6
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: link sprites left_67
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 292
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: link sprites left_68
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 291
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: link sprites left_69
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 221
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 32}
+        - {x: -11, y: 29}
+        - {x: -20, y: 11}
+        - {x: -20, y: -19}
+        - {x: -16, y: -32}
+        - {x: -4, y: -32}
+        - {x: 11, y: -26}
+        - {x: 20, y: -1}
+        - {x: 20, y: 32}
+    - name: link sprites left_70
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 224
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: link sprites left_71
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 211
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 30}
+        - {x: -27, y: 12}
+        - {x: -27, y: -17}
+        - {x: -23, y: -17}
+        - {x: -20, y: -14}
+        - {x: -23, y: -17}
+        - {x: -25, y: -24}
+        - {x: -25, y: -30}
+        - {x: 16, y: -30}
+        - {x: 19, y: -25}
+        - {x: 27, y: 9}
+        - {x: 27, y: 30}
+    - name: link sprites left_72
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 211
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 21.5}
+        - {x: -26.5, y: 20.5}
+        - {x: -26.5, y: -21.5}
+        - {x: 12.5, y: -21.5}
+        - {x: 26.5, y: -13.5}
+        - {x: 26.5, y: 21.5}
+    - name: link sprites left_73
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 212
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 21}
+        - {x: -23, y: -21}
+        - {x: 12, y: -21}
+        - {x: 23, y: -2}
+        - {x: 23, y: 10}
+        - {x: 0, y: 21}
+    - name: link sprites left_74
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 210
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 22}
+        - {x: -25.5, y: 12}
+        - {x: -25.5, y: -16}
+        - {x: -19.5, y: -21}
+        - {x: -16.5, y: -22}
+        - {x: 20.5, y: -22}
+        - {x: 25.5, y: -20}
+        - {x: 25.5, y: 21}
+        - {x: 23.5, y: 22}
+    - name: link sprites left_75
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 228
+        width: 6
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: link sprites left_76
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 210
+        width: 75
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37.5, y: 10}
+        - {x: 21.5, y: 15}
+        - {x: 14.5, y: 15}
+        - {x: 6.5, y: 9}
+        - {x: 7.5, y: 35}
+        - {x: -25.5, y: 35}
+        - {x: -37.5, y: 26}
+        - {x: -37.5, y: -27}
+        - {x: -25.5, y: -35}
+        - {x: 24.5, y: -35}
+        - {x: 24.5, y: -34}
+        - {x: 25.5, y: -35}
+        - {x: 37.5, y: -35}
+    - name: link sprites left_77
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 154
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: link sprites left_78
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 154
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: -1}
+        - {x: 14.5, y: 0}
+        - {x: 18.5, y: 4}
+        - {x: 18.5, y: 22}
+        - {x: -18.5, y: 22}
+        - {x: -18.5, y: -22}
+        - {x: 1.5, y: -22}
+        - {x: 17.5, y: -17}
+        - {x: 18.5, y: -15}
+        - {x: 18.5, y: -4}
+        - {x: 13.5, y: -1}
+    - name: link sprites left_79
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 156
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 20.5}
+        - {x: -16.5, y: 19.5}
+        - {x: -16.5, y: -20.5}
+        - {x: 16.5, y: -20.5}
+        - {x: 16.5, y: 20.5}
+    - name: link sprites left_80
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 154
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: link sprites left_81
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 154
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: link sprites left_82
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 154
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: link sprites left_83
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 154
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: -1}
+        - {x: 12, y: -1}
+        - {x: 16, y: 3}
+        - {x: 19, y: 7}
+        - {x: 19, y: 22}
+        - {x: -19, y: 22}
+        - {x: -19, y: -22}
+        - {x: -5, y: -22}
+        - {x: 4, y: -20}
+        - {x: 19, y: -15}
+        - {x: 19, y: -6}
+    - name: link sprites left_84
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 157
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 20.5}
+        - {x: -18, y: 12.5}
+        - {x: -18, y: 3.5}
+        - {x: -13, y: -2.5}
+        - {x: -18, y: -5.5}
+        - {x: -18, y: -18.5}
+        - {x: -9, y: -20.5}
+        - {x: 18, y: -20.5}
+        - {x: 18, y: 20.5}
+    - name: link sprites left_85
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 154
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: link sprites left_86
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 154
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: link sprites left_87
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 126
+        width: 36
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: link sprites left_88
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 75
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 32}
+        - {x: -24, y: 18}
+        - {x: -29, y: 9}
+        - {x: -29, y: -32}
+        - {x: -1, y: -32}
+        - {x: 29, y: 26}
+        - {x: 29, y: 32}
+    - name: link sprites left_89
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 75
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 35}
+        - {x: 13, y: 26}
+        - {x: -25, y: 8}
+        - {x: -28, y: 4}
+        - {x: -28, y: -35}
+        - {x: 6, y: -35}
+        - {x: 28, y: 25}
+        - {x: 28, y: 35}
+    - name: link sprites left_90
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 75
+        width: 49
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.5, y: 36.5}
+        - {x: 14.5, y: 36.5}
+        - {x: -24.5, y: 2.5}
+        - {x: -24.5, y: -36.5}
+        - {x: 12.5, y: -36.5}
+        - {x: 21.5, y: -1.5}
+        - {x: 24.5, y: 19.5}
+    - name: link sprites left_91
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 75
+        width: 46
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 36.5}
+        - {x: -23, y: -0.5}
+        - {x: -23, y: -36.5}
+        - {x: 16, y: -36.5}
+        - {x: 23, y: 16.5}
+        - {x: 23, y: 36.5}
+    - name: link sprites left_92
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 3
+        width: 46
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 36.5}
+        - {x: -23, y: -0.5}
+        - {x: -23, y: -36.5}
+        - {x: 16, y: -36.5}
+        - {x: 23, y: 16.5}
+        - {x: 23, y: 36.5}
+    - name: link sprites left_93
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 64
+        width: 27
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: link sprites left_94
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2
+        width: 75
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 35}
+        - {x: -37.5, y: 31}
+        - {x: -37.5, y: -26}
+        - {x: -25.5, y: -35}
+        - {x: 37.5, y: -35}
+        - {x: 37.5, y: 28}
+        - {x: 34.5, y: 35}
+    - name: link sprites left_95
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 2
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: -35}
+        - {x: 28.5, y: -35}
+        - {x: 30.5, y: -32}
+        - {x: 30.5, y: 35}
+        - {x: -25.5, y: 35}
+        - {x: -30.5, y: 28}
+        - {x: -30.5, y: -25}
+        - {x: -24.5, y: -30}
+        - {x: -15.5, y: -34}
+        - {x: -12.5, y: -35}
+        - {x: 14.5, y: -35}
+        - {x: 11.5, y: -26}
+        - {x: 8.5, y: -16}
+        - {x: 14.5, y: -16}
+    - name: link sprites left_96
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 3
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 30}
+        - {x: -25, y: 10}
+        - {x: -25, y: -30}
+        - {x: 15, y: -30}
+        - {x: 17, y: -25}
+        - {x: 25, y: 9}
+        - {x: 25, y: 30}
+    - name: link sprites left_97
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 3
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 21.5}
+        - {x: -25.5, y: 18.5}
+        - {x: -25.5, y: -21.5}
+        - {x: 14.5, y: -21.5}
+        - {x: 25.5, y: 12.5}
+        - {x: 25.5, y: 21.5}
+    - name: link sprites left_98
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 4
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 10}
+        - {x: -3, y: 21}
+        - {x: -23, y: 21}
+        - {x: -23, y: -21}
+        - {x: 11, y: -21}
+        - {x: 23, y: -1}
+    - name: link sprites left_99
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 3
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 22}
+        - {x: -17.5, y: 21}
+        - {x: -25.5, y: -4}
+        - {x: -25.5, y: -22}
+        - {x: 25.5, y: -22}
+        - {x: 25.5, y: 14}
+        - {x: 9.5, y: 22}
+    - name: link sprites left_100
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 20
+        width: 6
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: link sprites left_101
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 20
+        width: 6
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: link sprites left_102
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 4
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 22.5}
+        - {x: -17, y: 19.5}
+        - {x: -17, y: -0.5}
+        - {x: -11, y: -22.5}
+        - {x: 17, y: -22.5}
+        - {x: 17, y: 19.5}
+        - {x: 8, y: 22.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
